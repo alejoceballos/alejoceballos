@@ -117,4 +117,4 @@ here and there, but not real hard coding.
 
 Want a detailed description of my entire professional life? Click on the link below. But be careful! Don't fall asleep.
 
-- [Alejo's Full C.V. (2024 version)](Alejo-Ceballos-Full-2024-CV-NO-CONTACT-INFO.odt)
+- [Alejo's Full C.V. (2024 version)](Alejo-Ceballos-Full-2024-CV-NO-CONTACT-INFO.pdf)
