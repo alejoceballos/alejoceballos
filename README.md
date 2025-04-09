@@ -14,7 +14,7 @@
 # About me
 
 **I'm an [Argentinian](https://www.argentina.travel/) 🇦🇷 naturalized [Brazilian](https://visitbrasil.com/) 🇧🇷, living in 
-[Portugal](https://www.visitportugal.com/) 🇵🇹 with more than two decades developing software professionally.**
+[Portugal](https://www.visitportugal.com/) 🇵🇹 with almost three decades of developing software professionally.**
 
 ## A quick Introduction:
 
@@ -69,14 +69,14 @@ start digging into [Typescript](https://www.typescriptlang.org/), though.
 ## What about full stack?
 
 Allow me to be dramatic... I don't believe in full-stack. That's it! I said it! But don't get me wrong, I do believe 
-that people can work with both front and back end, but very few people are genuinely FULL stack (and I mean it... FEW!). 
+that people can work with both front and back end, but very few people are genuinely FULL-stack (and I mean it... FEW!). 
 Most of the time, people are strong on the back end and have little fear of working with the front end, or people are 
 strong on the front end with little fear of the back end. This gap becomes even more evident when back-end and front-end 
 technologies differ. Add [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Node.js](https://nodejs.org/), and 
 related front-end frameworks, and boom! You see a ton of alleged "full stack developers" creating so much macaroni code, 
 trying to get coding standards from one layer to another instead of focusing on each layer separately. Truthfully, I 
 also found good [JavaScript](https://simple.wikipedia.org/wiki/JavaScript) professionals struggling so much with 
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), which is all part of the front end, that now we have another 
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), which is all part of the front end, now we have another 
 professional layer, front-end designers, specialized in preventing developers from messing up with 
 [usability](https://digital.gov/topics/usability/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and related 
 stuff! Making a rough comparison is like looking for a neurosurgeon who is an expert in cardiovascular surgeries and 
@@ -92,7 +92,7 @@ Process) and the beautiful [UML](https://www.uml.org/what-is-uml.htm). It was on
 [Scrum](https://www.scrum.org/resources/what-scrum-module) and [Agile](https://agilemanifesto.org/), and suddenly, they 
 were the only things allowed in software development (thank God!). However, I gotta be honest, in 15+ years since I met
 [Agile](https://agilemanifesto.org/), there have been very few projects using it as it should. You know, agile is not a 
-thing that a team decides to do; it's a set of principles that must be embraced by the company, top-bottom. How many 
+thing that a team decides to do; it's a set of principles that must be embraced by the company, top-down. How many 
 times I was forced to give an estimation... In weeks! Or break an unbreakable story in two "just to fit the sprint." 
 Anyway, [TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html) (Test-Driven Development), 
 [BDD](https://www.agilealliance.org/glossary/bdd/) (Behavior-Driven development), 
@@ -106,7 +106,7 @@ Hey dude! 27 years in the market? Haven't you been promoted yet? (a.k.a. Technic
 Oh gosh, leadership! I have taken this toll many times in many projects and many companies. Technical leadership roles 
 are not outside my scope, but I believe that this type of responsibility comes with time, working within a team, and not 
 by falling from the sky as a technical leader on a project I've never worked with and with people I don't know, and they 
-don't know me. Also, I **like to code** and design solutions and architectures and not spend endless time in meetings 
+don't know me. Also, I **like to code** and design solutions and architectures, and not spend endless time in meetings 
 that, let's be honest, most of them could have been a simple email. C'mon! But I don't deny the absolute need for a 
 leadership role; just let's stop lying and calling it "technical" leadership, okay? We need leaders who are not 
 oblivious to the technology the team is working with and have very good soft skills. But please, when trying to 
